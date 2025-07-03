@@ -42,6 +42,7 @@ This project was a chance to apply my Python and data analysis skills to somethi
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ##What I Learned
 Reinforced core portfolio concepts like drawdowns, CAGR, and Sharpe ratios
@@ -51,6 +52,8 @@ Improved confidence working with financial time series in Python
 Learned how small strategic tweaks (like reweighting based on Sharpe) can lead to huge differences in outcome
 
 Realised how important data sourcing and alignment is when working across asset classes
+
+---
 
 About Me
 I'm currently studying Data Science at the University of Bristol, and I'm especially interested in quant trading, strategy, and consulting. This was a self-directed project I built to push my skills and create something I could actually be proud to share.
